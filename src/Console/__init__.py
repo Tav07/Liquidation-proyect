@@ -1,0 +1,1 @@
+# Este archivo permite la ordenación de carpetas
